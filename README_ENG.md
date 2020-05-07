@@ -2,7 +2,7 @@
 
 a dart web for json2dart
 
-use for web location: [json2dart](https://caijinglong.github.io/json2dart/index.html)
+use for web location: [json2dart](https://mixiaodou.github.io/json2dart/index.html)
 
 ## intro
 
